@@ -1,7 +1,7 @@
 # HydraThreejs
 Temporary solution for using Threejs in Hydra
 
-```
+``` javascript
 await loadScript("https://unpkg.com/three@0.97.0/build/three.js") //just replace the original example with this URL
 
 scene = new THREE.Scene()
